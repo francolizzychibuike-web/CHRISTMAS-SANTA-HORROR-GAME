@@ -1,0 +1,6 @@
+{
+  "name": "Bad Santa: Christmas Nightmare",
+  "description": "A 2D Christmas horror survival slider game where you outrun, outslide, and hide from Evil Santa across 30 snowy nightmare levels.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
